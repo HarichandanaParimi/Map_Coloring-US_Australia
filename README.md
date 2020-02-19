@@ -15,20 +15,20 @@ Six python files are created for each country.
 
 # USA
 
-          1. usa_map fdchk_with_h
-          2. usa_map fdcheck_without_h
-          3. usa_singleton_with_heuristic
-          4. usa_singleton_without_h
-          5. usa_dfs_with_heuristic
-          6. usa_dfs_wihtout_heuristic
+          1. usa_map fdchk_with_h.py
+          2. usa_map fdcheck_without_h.py
+          3. usa_singleton_with_heuristic.py
+          4. usa_singleton_without_h.py
+          5. usa_dfs_with_heuristic.py
+          6. usa_dfs_wihtout_heuristic.py
 
 # Australia
-          1. aus_forward_checking_heuristic
-          2. aus_forward_checking_without_h
-          3. aus_singleton
-          4. aus_singleton_without
-          5. aus_dfs_heuristic
-          6. aus_dfs_without_h
+          1. aus_forward_checking_heuristic.py
+          2. aus_forward_checking_without_h.py
+          3. aus_singleton.py
+          4. aus_singleton_without.py
+          5. aus_dfs_heuristic.py
+          6. aus_dfs_without_h.py
 
 
 
